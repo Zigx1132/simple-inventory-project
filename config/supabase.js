@@ -1,7 +1,7 @@
 // 1. Koneksi Supabase
 // Gunakan publishable key atau anon key. Jangan pernah gunakan service_role key di browser.
-const SUPABASE_URL = 'https://xohtbhnohaufcksmbomf.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_-6bR7iv7BSJ9rHC-Or6-Hg_TH9gdl_S';
+const SUPABASE_URL = 'https://tlvwibwusfemvrfbodbe.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_OX-WoMGo32s7f3K0q13ykA_czFVIDNS';
 
 // Cek sederhana: URL sudah diisi, key sudah diisi, dan library Supabase sudah dimuat.
 export const isConfigured =
